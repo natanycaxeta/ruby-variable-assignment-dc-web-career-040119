@@ -5,5 +5,4 @@ languages:
   - ruby
 resources: 2
 
-greetinh = "Hello World"
 greeting = "Hello World"
